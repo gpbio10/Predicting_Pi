@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/grady/CLionProjects/Predicting_Pi/linkedlist.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+time.h
+-
+
